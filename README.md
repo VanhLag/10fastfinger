@@ -8,4 +8,4 @@ deo co j hot
 
 # Screenshot
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c5e48b9-8f04-4dae-8601-2c76c7a0d1eb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a923a54-d177-4323-851e-a35090eaceaf" />
